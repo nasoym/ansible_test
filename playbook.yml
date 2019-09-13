@@ -3,4 +3,5 @@
   connection: local
   roles:
     - hello_world
+    - ansible_galaxy_test
 

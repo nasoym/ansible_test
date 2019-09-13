@@ -1,0 +1,3 @@
+---
+- src: git+https://github.com/nasoym/ansible_galaxy_test.git
+
